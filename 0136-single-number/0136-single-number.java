@@ -10,4 +10,5 @@ class Solution {
         }
         return nums[n-1];
     }
-}
+} // take val = 0 
+// val = val^nums[i] return val
