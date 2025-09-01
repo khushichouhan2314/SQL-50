@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/khushichouhan2314/SQL-50/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/khushichouhan2314/SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/khushichouhan2314/SQL-50/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/khushichouhan2314/SQL-50/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/khushichouhan2314/SQL-50/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
