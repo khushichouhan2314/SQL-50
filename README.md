@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/khushichouhan2314/SQL-50/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [2235-capitalize-the-title](https://github.com/khushichouhan2314/SQL-50/tree/master/2235-capitalize-the-title) |
 <!---LeetCode Topics End-->
