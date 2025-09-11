@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-capitalize-the-title](https://github.com/khushichouhan2314/SQL-50/tree/master/2235-capitalize-the-title) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
