@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/khushichouhan2314/SQL-50/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/khushichouhan2314/SQL-50/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/khushichouhan2314/SQL-50/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
