@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/SQL-50/tree/master/0387-first-unique-character-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/khushichouhan2314/SQL-50/tree/master/2235-capitalize-the-title) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/SQL-50/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/khushichouhan2314/SQL-50/tree/master/0283-move-zeroes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/SQL-50/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/SQL-50/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
