@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/khushichouhan2314/SQL-50/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/khushichouhan2314/SQL-50/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/SQL-50/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/SQL-50/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/SQL-50/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushichouhan2314/SQL-50/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/khushichouhan2314/SQL-50/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/SQL-50/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
@@ -45,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khushichouhan2314/SQL-50/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/SQL-50/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/khushichouhan2314/SQL-50/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
